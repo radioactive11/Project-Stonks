@@ -11,6 +11,7 @@ def yahoo_fetcher(ticker):
     yesterday = dt.date.today() - dt.timedelta(days=1)
     yesterday = yesterday.strftime("%Y-%m-%d")
     yesterday = dt.datetime.strptime(yesterday, "%Y-%m-%d")
+    os.mkdir("data")
     os.chdir("data")
     ticker_name = str(ticker + ".NS")
     ticker_file = str(ticker_name + ".csv")
