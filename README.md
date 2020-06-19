@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://https://github.com/radioactive11/Project-Stonk">
     <img src="images/post.png" alt="Logo" width="400" height="400">
   </a>
 
