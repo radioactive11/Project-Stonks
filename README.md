@@ -93,7 +93,7 @@ python3 main.py
 
 Enter the company ticker you want the prediction for.<br />
 _For example_<br />
-
+Enter ```reliance``` for RELIANCE.NS
 ![product-screenshot]
 
 
