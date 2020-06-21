@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://https://github.com/radioactive11/Project-Stonk">
+  <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/post.png" alt="Logo" width="400" height="400">
   </a>
 
@@ -45,14 +45,13 @@
 ## About The Project
 
 
-This is a simple project which utilizes LSTMs to predict stock prices for a given company.
+The project aims to predict the stock prices of a given company using LSTM networks. It can be beneficial / it can come handy in following ways-
 
-
-* This can be used to cross check your own prediction
-* Check performance of a company
-* Decide whether you want to buy/hold/sell a stock
-
-Of course, this application is not 100% accurate. However minimum accuracy was around 86% which is accectable given how random the stock market can get.
+*	Predicting the future performance of a certain stock thereby allowing you to decide the positions you want to take ie to sell, buy or hold.
+*	Selecting the industry for investment by studying the expected industry-wise market trends.
+*	Acting as a tool to confirm your analysis about the movement of stock prices.
+The results should not be treated as conclusive for investment and do not ensure a 100% accuracy.<br/><br/>
+However, the minimum accuracy of the model is 86% which is taken to be acceptable considering the unpredictable nature of the stock market.
 
 
 ### Built With
@@ -93,7 +92,7 @@ python3 main.py
 
 Enter the company ticker you want the prediction for.<br />
 _For example_<br />
-Enter ```reliance``` for RELIANCE.NS
+
 ![product-screenshot]
 
 
